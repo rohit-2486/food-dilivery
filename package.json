@@ -1,0 +1,38 @@
+{
+  "name": "react-by-akshay",
+  "version": "1.0.0",
+  "description": "Food dilivery ",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-2486/food-dilivery.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-2486/food-dilivery/issues"
+  },
+  "homepage": "https://github.com/rohit-2486/food-dilivery#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "parcel-bundler": "^1.12.5",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "shimmer": "^1.2.1"
+  },
+  " browserlist": [
+    "last 2 versions"
+  ]
+}
